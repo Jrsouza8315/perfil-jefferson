@@ -15,7 +15,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/reticencias.png");
+    background-image: url("assets/img/reticencias.png");
 }
 
 .header .photo {
@@ -59,19 +59,19 @@
 }
 
 .information .job::before {
-    background-image: url('/assets/icons/hacker.png');
+    background-image: url('assets/icons/hacker.png');
 }
 
 .information .local::before {
-    background-image: url('/assets/icons/local.png');
+    background-image: url('assets/icons/local.png');
 }
 
 .information .fone::before {
-    background-image: url('/assets/icons/fone.png');
+    background-image: url('assets/icons/fone.png');
 }
 
 .information .msg::before {
-    background-image: url('/assets/icons/msg.png');
+    background-image: url('assets/icons/msg.png');
 }
 
 @media only screen and (min-width: 768px){
